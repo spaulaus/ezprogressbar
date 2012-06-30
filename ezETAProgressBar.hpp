@@ -1,7 +1,6 @@
 /*
-Copyright (C) 2011 Remik Ziemlinski
-*/
-/*
+Copyright (C) 2011,2012 Remik Ziemlinski. See MIT-LICENSE.
+
 CHANGELOG
 
 v0.0.0 20110502 rsz Created.

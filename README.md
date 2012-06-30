@@ -149,6 +149,7 @@ Publishing
 ----------
     ssh -t rsz,ezprogressbar@shell.sourceforge.net create
     scp html/*.html ez*Bar.hpp rsz,ezprogressbar@shell.sourceforge.net:/home/project-web/ezprogressbar/htdocs
+    scp ../ezProgressBar-2.1.1.tar.gz rsz,ezprogressbar@shell.sourceforge.net:/home/frs/project/e/ez/ezprogressbar
 
 <hr>
 Changelog
